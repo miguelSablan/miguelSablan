@@ -1,6 +1,6 @@
 # Hello 👋
 
-
+I am a Computer Science Major at Florida International University. I am a developer with a focus on Web Development and Mobile App Development.
 <!---
 808Migz/808Migz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
