@@ -2,10 +2,22 @@
 <!--<h1 align="center">Hi there! 👋</h1>-->
 I am a Computer Science Major at Florida International University. I am a developer with a focus on Web Development and Mobile App Development.
 
-### Github Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=miguelSablan)](https://github.com/miguelSablan)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=miguelSablan)](https://github.com/miguelSablan)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelSablan&layout=compact)](https://github.com/miguelSablan)
+
+</details>
+
+
+<details>
+  <summary>:zap: Top Languages</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelSablan&layout=compact)](https://github.com/miguelSablan)
+<br>
+</details>
 
 ### 🔗 Connect with me:
 
