@@ -49,9 +49,8 @@ I am a Computer Science Major at Florida International University with a focus o
 
 ## 🔗 Connect with me:
 
-<a href="https://www.linkedin.com/in/miguel-sablan/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<a href="https://miguelsablan.com"><img align="left" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/miguel-sablan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://miguelsablan.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
 
 
 <!---
